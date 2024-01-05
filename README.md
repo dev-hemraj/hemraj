@@ -1,16 +1,9 @@
-# hemraj
-![logo](https://github.com/dev-hemraj/hemraj/hemraj-banner.png)
-
+# Hemraj
+![logo](https://github.com/dev-hemraj/hemraj/blob/c4e0852423ab18e7909ac2f75e29a7f988baab7c/hemraj-banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Hem Raj Bhatt </h1>
 <h3 align="center"> 7+ years of experience in  Frontend Developer. </h3>
-
- 
- 
-
- 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
